@@ -1,0 +1,19 @@
+bugs:
+.> bounds checking for ImageHandler::fill
+
+flaws:
+.> proper file extensions in open and save as file dialogs
+.> size selection for new images
+.> proper destructors
+.> "would you like to save" dialog on open new file and shutdown
+.> "fit to screen" should be changed to "normal size"
+
+additional features:
+.> add sytem clipboard options to edit menu
+.> populate status bar(toolname, filename, (x,y))
+.> different circle and elipse tools
+.> color replace tool
+.> transparency control
+.> smarter undo -smaller memory footprint, more levels, possibly a history of all
+
+

@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/eraser.png</file>
+        <file>icons/highlighter.png</file>
+        <file>icons/layer-shape-ellipse.png</file>
+        <file>icons/layer-shape-line.png</file>
+        <file>icons/layer-shape-text.png</file>
+        <file>icons/paint-brush.png</file>
+        <file>icons/paint-can.png</file>
+        <file>icons/pencil.png</file>
+        <file>icons/scissors.png</file>
+        <file>icons/disk-black.png</file>
+        <file>icons/disk.png</file>
+        <file>icons/document.png</file>
+        <file>icons/gear.png</file>
+        <file>icons/magnifier-zoom-fit.png</file>
+        <file>icons/magnifier-zoom-in.png</file>
+        <file>icons/magnifier-zoom-out.png</file>
+        <file>icons/palette.png</file>
+        <file>icons/layer-shape.png</file>
+        <file>icons/zone-medium.png</file>
+        <file>icons/zone.png</file>
+        <file>icons/arrow-swap.png</file>
+        <file>icons/pipette.png</file>
+        <file>icons/spraycan.png</file>
+        <file>icons/arrow-circle.png</file>
+        <file>icons/arrow-circle-left.png</file>
+    </qresource>
+</RCC>
