@@ -51,4 +51,5 @@ RESOURCES += \
     icons.qrc
 
 OTHER_FILES += \
-    ToDo.txt
+    ToDo.txt \
+    License.txt
